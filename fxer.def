@@ -1,0 +1,8 @@
+; 3DLib.def: объ€вл€ет параметры модул€ дл€ DLL.
+
+LIBRARY
+
+EXPORTS
+    fnfxdll_edit		      @1
+	fnfxdll_setvars		      @2
+	fnfxdll_edit_withname     @3
